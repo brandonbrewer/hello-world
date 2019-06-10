@@ -1,2 +1,3 @@
 # hello-world
-learning to use github
+Just learning github and working through some of the processes on here. 
+
